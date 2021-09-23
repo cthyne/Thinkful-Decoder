@@ -1,0 +1,12 @@
+{
+  "name": "decoder-ring-thinkful",
+  "version": "1.0.0",
+  "description": "Allows you to encode and decode text with cyphers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [],
+  "author": "Ciara",
+  "license": "ISC"
+}
